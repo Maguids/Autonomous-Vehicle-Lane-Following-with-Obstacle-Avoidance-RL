@@ -14,15 +14,15 @@ This project was developed for the "Introduction to Intelligent Robotics" course
 
 ## Requirements:
 
-	- python
-	- Webots
-	- Matplotlib
-	- Gymnasium
-	- Torch
-	- Tensorboar
-	- Numpy
-	- Opencv-python
-	- Stable-baselines3
+	- python: 3.12.3
+	- Webots: R2025a
+	- Matplotlib == 3.10.3
+	- Gymnasium == 1.1.1
+	- Torch == 2.7.0
+	- Tensorboar == 2.19.0
+	- Numpy == 2.2.6
+	- Opencv-python == 4.11.0.86
+	- Stable-baselines3 == 2.19.0
 
 You can use other versions of these libraries as long as they are compatible with each other and with the webots installed.
 
