@@ -209,7 +209,6 @@ As you may have noticed, the folder `prius_train_env` doesn't have a Python file
 
 ```
 IRIproject
-├── .idea
 ├── libraries
 ├── plugins
 ├── protos
