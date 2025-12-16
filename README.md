@@ -1,4 +1,4 @@
-# # Autonomous Vehicle - Lane Following with Obstacle Avoidance (RL)
+# Autonomous Vehicle - Lane Following with Obstacle Avoidance (RL)
 
 This project was developed for the "Introduction to Intelligent Robotics" course and aims to make a vehicle, in this case the **Toyota Prius**, able to follow the **road line**, **staying in its lane** and **avoiding obstacles** that appear in front of it. This project must be developed using **Webots and Reinforcement Learning**. Second Semester of the Third Year of the Bachelor's Degree in Artificial Intelligence and Data Science.
 
